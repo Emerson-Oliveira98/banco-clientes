@@ -74,7 +74,7 @@ dt_cadastro datetime null default getdate());
 select * from cliente;
 
 insert into cliente(nome_cliente,sobrenome_cliente,sexo,idade,data_nascimento,cpf)
-values          ('pedro','henrique','m','19','26-06-1997','43545678912');
+values          ('pedro','henrique','m','19','26-06-1997','99945678912');
 
 
 
